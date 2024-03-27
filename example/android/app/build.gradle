@@ -57,6 +57,8 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+
+    namespace 'com.aledev.network_type_reachability_example'
 }
 
 flutter {
